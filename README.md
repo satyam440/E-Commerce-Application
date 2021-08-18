@@ -8,16 +8,6 @@ you can reuse more than 60 widget to customize your application.
 The same code used for both iOS and Android
 
 ## Installation
-### Setup Flutter environment
-Follow base on the operating system on which you are installing Flutter:
-
-Mac OS: https://flutter.dev/docs/get-started/install/macos
-
-Window: https://flutter.dev/docs/get-started/install/windows
-
-Linux: https://flutter.dev/docs/get-started/install/linux
-
-Setup an editor: https://flutter.dev/docs/get-started/editor
 
 ### Test drive
 This section describes how to create a new Flutter app, run it, and experience “hot reload” after you make changes to the Fluxstore app.
